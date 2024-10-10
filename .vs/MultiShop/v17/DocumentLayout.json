@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A071C89D-C73D-4A36-A7C7-FF1B80BFBBEA}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\catalog\\multishop.catalog\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A071C89D-C73D-4A36-A7C7-FF1B80BFBBEA}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A071C89D-C73D-4A36-A7C7-FF1B80BFBBEA}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\catalog\\multishop.catalog\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A071C89D-C73D-4A36-A7C7-FF1B80BFBBEA}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,19 +103,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:19:05.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
               "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T01:12:02.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GeneralMapping.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdateProductImageDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\UpdateProductImageDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\UpdateProductImageDto.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GetByIdProductImageDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\GetByIdProductImageDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\GetByIdProductImageDto.cs",
@@ -150,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CreateProductImageDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\CreateProductImageDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\CreateProductImageDto.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ResultProductImageDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\ResultProductImageDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\ResultProductImageDto.cs",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CreateProductDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProductDetail.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductDetail.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductDetail.cs",
@@ -202,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GetByIdProductDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
@@ -215,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductImage.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductImage.cs",
@@ -228,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ResultProductDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\ResultProductDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\ResultProductDto.cs",
@@ -241,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UpdateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\UpdateProductDto.cs",
@@ -254,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GetByIdProductDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\GetByIdProductDetailDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\GetByIdProductDetailDto.cs",
@@ -267,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UpdateProductDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\UpdateProductDetailDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\UpdateProductDetailDto.cs",
@@ -280,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ResultProductDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\ResultProductDetailDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\ResultProductDetailDto.cs",
@@ -293,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDtos\\CreateProductDto.cs",
@@ -306,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GetByIdCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
@@ -319,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CreateCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
@@ -332,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entities\\Product.cs",
