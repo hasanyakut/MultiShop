@@ -20,7 +20,7 @@ namespace MultiShop.Discount.Services
 			parameters.Add("@code", createCouponDto.Code);
 			parameters.Add("@rate", createCouponDto.Rate);
 			parameters.Add("@isActive", createCouponDto.IsActive);
-			parameters.Add("validDate", createCouponDto.ValidDate);
+			parameters.Add("@validDate", createCouponDto.ValidDate);
 			using(var connection=_context.CreateConnection())
 			{
 				await connection.ExecuteAsync(query, parameters);
@@ -55,7 +55,7 @@ namespace MultiShop.Discount.Services
 			parameters.Add("@couponId", id);
 			using (var connection= _context.CreateConnection())
 			{
-				var values = await connection.QueryFirstOrDefaultAsync<GetByIdDiscountCouponDto>(query);
+				var values = await connection.QueryFirstOrDefaultAsync<GetByIdDiscountCouponDto>(query, parameters);
 				return values;
 			}
 		}
@@ -67,7 +67,8 @@ namespace MultiShop.Discount.Services
 			parameters.Add("@code", updateCouponDto.Code);
 			parameters.Add("@rate", updateCouponDto.Rate);
 			parameters.Add("@isActive", updateCouponDto.IsActive);
-			parameters.Add("validDate", updateCouponDto.ValidDate);
+			parameters.Add("@validDate", updateCouponDto.ValidDate);
+			parameters.Add("@couponId", updateCouponDto.CouponId);
 			using (var connection = _context.CreateConnection())
 			{
 				await connection.ExecuteAsync(query, parameters);

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BBFC672-14D2-4CEF-AE71-D3D6FD8FBA29}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\discount\\multishop.discount\\services\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:44:25.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateDiscountCouponDto.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ResultDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\ResultDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\ResultDiscountCouponDto.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GetByIdDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdDiscountCouponDto.cs",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CreateDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\CreateDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\CreateDiscountCouponDto.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DiscountsController.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
@@ -115,20 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DiscountService.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
               "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwEUAAAA6AAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T17:47:57.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IDiscountService.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
