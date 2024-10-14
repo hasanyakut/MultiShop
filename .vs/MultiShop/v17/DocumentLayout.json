@@ -3,56 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\updateaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\updateaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\removeaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\removeaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\queries\\addressqueries\\getaddressbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\queries\\addressqueries\\getaddressbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5111349A-9C1F-4C3A-AC70-0CE03014BBF2}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5111349A-9C1F-4C3A-AC70-0CE03014BBF2}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBDC5108-120A-4BB2-927E-9B33CF76E9A2}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\infrastructure\\multishop.order.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDC5108-120A-4BB2-927E-9B33CF76E9A2}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\multishop.order.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5111349A-9C1F-4C3A-AC70-0CE03014BBF2}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5111349A-9C1F-4C3A-AC70-0CE03014BBF2}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBDC5108-120A-4BB2-927E-9B33CF76E9A2}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDC5108-120A-4BB2-927E-9B33CF76E9A2}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5111349A-9C1F-4C3A-AC70-0CE03014BBF2}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.domain\\entities\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5111349A-9C1F-4C3A-AC70-0CE03014BBF2}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\entities\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E11879-6A9B-4960-9E1F-1C9BB857B2D9}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,170 +39,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetAddressQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAADAAAA",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T00:07:56.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetAddressByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T00:04:23.536Z",
+              "WhenOpened": "2024-10-14T00:25:31.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateAddressCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T00:00:31.194Z",
+              "WhenOpened": "2024-10-14T00:21:45.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RemoveAddressCommand.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:59:15.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateAddressCommand.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:59:01.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateAddressCommand.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:58:12.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAddressByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:56:46.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetAddressByIdQueryResult.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:55:25.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetAddressQueryResult.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:54:02.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:47:43.31Z",
+              "WhenOpened": "2024-10-14T00:18:07.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Ordering.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "DocumentIndex": 3,
+              "Title": "UpdateAddressCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:36:30.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:36:14.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:36:05.817Z",
+              "WhenOpened": "2024-10-14T00:15:58.864Z",
               "EditorCaption": ""
             }
           ]

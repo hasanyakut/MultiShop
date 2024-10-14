@@ -9,18 +9,23 @@ using System.Threading.Tasks;
 
 namespace MultiShop.Order.Application.Features.CQRS.Handlers.AddressHandlers
 {
-	public class RemoveAddressCommandHandler
+	public class UpdateAddressCommandHandler
 	{
 		private readonly IRepository<Address> _repository;
 
-		public RemoveAddressCommandHandler(IRepository<Address> repository)
+		public UpdateAddressCommandHandler(IRepository<Address> repository)
 		{
 			_repository = repository;
 		}
-		public async Task Handle(RemoveAddressCommand command)
+
+		public async Task Handle(UpdateAddressCommand command)
 		{
-			var value = await _repository.GetByIdAsync(command.Id);
-			await _repository.DeleteAsync(value);
+			var values = await _repository.GetByIdAsync(command.AddressId);
+			values.Detail = command.Detail;
+			values.District = command.District;
+			values.City = command.City;
+			values.UserId = command.UserId;
+			await _repository.UpdateAsync(values);
 		}
 	}
 }
