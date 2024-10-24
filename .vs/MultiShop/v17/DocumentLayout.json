@@ -3,80 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.carge.dtolayer\\dtos\\cargodetaildto\\createcargodetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.carge.dtolayer\\dtos\\cargodetaildto\\createcargodetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.carge.dtolayer\\dtos\\cargodetaildto\\updatecargodetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.carge.dtolayer\\dtos\\cargodetaildto\\updatecargodetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98F259C2-78B8-4A1D-9DDE-3D329BEB4701}|Services\\Cargo\\Multishop.Cargo.EntityLayer\\Multishop.Cargo.EntityLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F259C2-78B8-4A1D-9DDE-3D329BEB4701}|Services\\Cargo\\Multishop.Cargo.EntityLayer\\Multishop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.webapi\\controllers\\cargodetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\controllers\\cargodetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.webapi\\controllers\\cargocustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\controllers\\cargocustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocustomerdto\\updatecargocustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocustomerdto\\updatecargocustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocustomerdto\\createcargocustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocustomerdto\\createcargocustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F259C2-78B8-4A1D-9DDE-3D329BEB4701}|Services\\Cargo\\Multishop.Cargo.EntityLayer\\Multishop.Cargo.EntityLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F259C2-78B8-4A1D-9DDE-3D329BEB4701}|Services\\Cargo\\Multishop.Cargo.EntityLayer\\Multishop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.webapi\\controllers\\cargocompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\controllers\\cargocompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocompanydto\\createcargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocompanydto\\createcargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocompanydto\\updatecargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{819C83F6-5E23-4066-A078-C29D59577A4F}|Services\\Cargo\\MultiShop.Carge.DtoLayer\\MultiShop.Carge.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.carge.dtolayer\\dtos\\cargocompanydto\\updatecargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F259C2-78B8-4A1D-9DDE-3D329BEB4701}|Services\\Cargo\\Multishop.Cargo.EntityLayer\\Multishop.Cargo.EntityLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F259C2-78B8-4A1D-9DDE-3D329BEB4701}|Services\\Cargo\\Multishop.Cargo.EntityLayer\\Multishop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargodetailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargodetailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargocompanymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargocompanymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargocustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargocustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\abstract\\icargocustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\abstract\\icargocustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\abstract\\icargodetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\abstract\\icargodetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\abstract\\icargocompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\abstract\\icargocompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargooperationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargooperationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8D9A52-3074-4526-8728-D65AD1AB74B0}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,249 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CargoDetail.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "RelativeToolTip": "Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Program.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:49:15.621Z",
+              "WhenOpened": "2024-10-24T22:03:53.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateCargoDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\UpdateCargoDetailDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\UpdateCargoDetailDto.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\UpdateCargoDetailDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\UpdateCargoDetailDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:49:07.977Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T22:02:26.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateCargoDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\CreateCargoDetailDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\CreateCargoDetailDto.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\CreateCargoDetailDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoDetailDto\\CreateCargoDetailDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:48:59.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CargoDetailController.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoDetailController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoDetailController.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoDetailController.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoDetailController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:48:36.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CargoCustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCustomerController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCustomerController.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCustomerController.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCustomerController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:38:03.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateCargoCustomerDto.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\UpdateCargoCustomerDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\UpdateCargoCustomerDto.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\UpdateCargoCustomerDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\UpdateCargoCustomerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:36:04.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateCargoCustomerDto.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\CreateCargoCustomerDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\CreateCargoCustomerDto.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\CreateCargoCustomerDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCustomerDto\\CreateCargoCustomerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:35:51.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CargoCompanyController.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:30:35.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CargoCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "RelativeToolTip": "Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:23:18.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateCargoCompanyDto.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\UpdateCargoCompanyDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\UpdateCargoCompanyDto.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\UpdateCargoCompanyDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\UpdateCargoCompanyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:23:02.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CargoCompany.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "RelativeToolTip": "Services\\Cargo\\Multishop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:22:36.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateCargoCompanyDto.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\CreateCargoCompanyDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\CreateCargoCompanyDto.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\CreateCargoCompanyDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Carge.DtoLayer\\Dtos\\CargoCompanyDto\\CreateCargoCompanyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:22:24.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CargoOperationManager.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoOperationManager.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoOperationManager.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoOperationManager.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoOperationManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:11:47.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICargoCompanyService.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCompanyService.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCompanyService.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCompanyService.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCompanyService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:09:27.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICargoDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoDetailService.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoDetailService.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoDetailService.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoDetailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:09:25.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ICargoCustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCustomerService.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCustomerService.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCustomerService.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\ICargoCustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:09:08.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CargoCustomerManager.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCustomerManager.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCustomerManager.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCustomerManager.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCustomerManager.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:08:47.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CargoCompanyManager.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCompanyManager.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCompanyManager.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCompanyManager.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoCompanyManager.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T21:01:39.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CargoDetailManager.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:58:09.318Z",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T22:00:34.904Z",
               "EditorCaption": ""
             }
           ]
