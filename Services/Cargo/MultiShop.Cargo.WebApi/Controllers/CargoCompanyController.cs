@@ -1,19 +1,22 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MultiShop.Carge.DtoLayer.Dtos.CargoCompanyDto;
+using Multishop.Cargo.EntityLayer.Concrete;
 using MultiShop.Cargo.BusinessLayer.Abstract;
 
 namespace MultiShop.Cargo.WebApi.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
-	public class CargoCompany : ControllerBase
+	public class CargoCompanyController : ControllerBase
 	{
 		private readonly ICargoCompanyService _cargoCompanyService;
 
-		public CargoCompany(ICargoCompanyService cargoCompanyService)
+		public CargoCompanyController(ICargoCompanyService cargoCompanyService)
 		{
 			_cargoCompanyService = cargoCompanyService;
 		}
+
 		[HttpGet]
 		public IActionResult CargoCompanyList()
 		{
@@ -22,8 +25,13 @@ namespace MultiShop.Cargo.WebApi.Controllers
 		}
 
 		[HttpPost]
-		public IActionResult CreateCargoCompany()
+		public IActionResult CreateCargoCompany(CreateCargoCompanyDto createCargoCompanyDto)
 		{
+			CargoCompany cargoCompany = new CargoCompany()
+			{
+				CargoCompanyName=createCargoCompanyDto.CargoCompanyName
+			};
+			_cargoCompanyService.TInsert(cargoCompany);
 			return Ok("Kargo şirketi başarıyla oluşturuldu");
 		}
 
@@ -42,8 +50,14 @@ namespace MultiShop.Cargo.WebApi.Controllers
 		}
 
 		[HttpPut]
-		public IActionResult UpdateCargoCompany()
+		public IActionResult UpdateCargoCompany(UpdateCargoCompanyDto updateCargoCompanyDto)
 		{
+			CargoCompany cargoCompany = new CargoCompany()
+			{
+				CargoCompanyId = updateCargoCompanyDto.CargoCompanyId,
+				CargoCompanyName = updateCargoCompanyDto.CargoCompanyName
+			};
+			_cargoCompanyService.TUpdate(cargoCompany);
 			return Ok("kargo şirketi başarıyla güncellendi");
 		}
 	}
