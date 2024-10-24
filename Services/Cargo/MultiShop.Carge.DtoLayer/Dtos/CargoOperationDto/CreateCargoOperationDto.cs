@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace MultiShop.Carge.DtoLayer.Dtos.CargoOperationDto
 {
-	internal class CreateCargoOperationDto
+	public class CreateCargoOperationDto
 	{
+		public string Barcode { get; set; }
+		public string Description { get; set; }
+		public DateTime OperationDate { get; set; }
 	}
 }
