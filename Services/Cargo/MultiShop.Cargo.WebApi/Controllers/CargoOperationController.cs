@@ -3,9 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 using MultiShop.Carge.DtoLayer.Dtos.CargoOperationDto;
 using MultiShop.Cargo.BusinessLayer.Abstract;
 using Multishop.Cargo.EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MultiShop.Cargo.WebApi.Controllers
 {
+	[Authorize]
 	[Route("api/[controller]")]
 	[ApiController]
 	public class CargoOperationController : ControllerBase
