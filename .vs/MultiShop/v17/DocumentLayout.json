@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BBDB510-15D1-4F16-A76A-4F527E4C0738}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\hasan\\onedrive\\desktop\\projects\\multishop\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargodetailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4E91C5-D3BD-4000-B547-9FF022D50F4D}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\concrete\\cargodetailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EfCargoOperationDal.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Title": "CargoDetailManager.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Concrete\\CargoDetailManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:49:42.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EfCargoDetailDal.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:48:04.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EfCargoCustomerDal.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:46:59.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EfCargoCompanyDal.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\Projects\\MultiShop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:46:25.278Z",
+              "WhenOpened": "2024-10-24T20:58:09.318Z",
               "EditorCaption": ""
             }
           ]
